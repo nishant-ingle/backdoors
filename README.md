@@ -44,7 +44,4 @@ Although, we have used the datasets from torchvision.datasets library:
   * **CIFAR-10**
   * **MNIST**
 
-The pre-trained poisoned models can be found on my [Kaggle profile](https://www.kaggle.com/inglenishant/datasets)
-wrapped in Kaggle datasets. That said, training the models from scratch is highly recommended.
-
 -----
